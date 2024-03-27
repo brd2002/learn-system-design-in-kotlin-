@@ -1,0 +1,10 @@
+SOLID PRINCIPLE ::
+s -> single responseibility ( 1 class should have one reason to change )
+o -> open/close principle ( open for extention but close for modification)
+l -> liskov substitution ( if class B subtype of class A
+ , we should be able to replace object of A with B without breaking behaviour of the program)
+(sub class should be extend the capability of the parent class not narrow it donw )
+i -> interface segmented principle (interfaces should be such , that client should not implement
+                unnecessary functions they do not need)
+d -> dependency inversion (class should depend on interfaces rather than concrete classes )
+

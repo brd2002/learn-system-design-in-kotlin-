@@ -12,7 +12,7 @@ class student(){
 interface  shape{
     fun area(): Double
 }
-class Rectangle (val width : Double , val height : Double) : shape{
+class Rectangle (val width : Double , val height : Double)  :  shape{
     override fun area(): Double {
         return width*width
     }
@@ -30,8 +30,21 @@ class Marker{
         this.color = color
     }
 }
+open class bike {
+//    The open keyword allows classes, functions, and properties to be extended,
+    open fun wheel() {
+        println("It has 2 wheel ")
+    }
+}
+class  threewheelbick : bike() {
+    override  fun wheel (){
+        println("It has 3 wheels ")
+    }
+}
 fun main (){
 //    var  bharat = student("bharat ruidas " , 10)
     var bluemarker = Marker("camel" , "black" , 2002 , 40)
-    println(bluemarker.year)
+//    println(bluemarker.year)
+    var threewheel = threewheelbick()
+    threewheel.wheel()
 }

@@ -1,0 +1,10 @@
+
+rkotlin:S108 ")Either remove or fill this block of code.(×ØÆãùÿÿÿÿ8ÃÓ×ıç1J$54884b9d-6fab-41f0-a3b2-805cf048fa24
+™kotlin:S101"PRename class "driveStrategy" to match the regular expression ^[A-Z][a-zA-Z0-9]*$(ê¦ÆÅÿÿÿÿÿ8’ƒĞıç1J$118df999-39e3-4cae-9638-fcc67e0c54de
+—kotlin:S101"NRename class "normaldrive" to match the regular expression ^[A-Z][a-zA-Z0-9]*$(Û¦úøÿÿÿÿ8“ƒĞıç1J$0b329b44-6f41-49d9-9c46-52349c44d221
+˜kotlin:S101"ORename class "specialdrive" to match the regular expression ^[A-Z][a-zA-Z0-9]*$(¡©ôšúÿÿÿÿ8“ƒĞıç1J$ef12682b-5d73-4f8d-af50-a3471de50d2d
+kotlin:S101"KRename class "vechicle" to match the regular expression ^[A-Z][a-zA-Z0-9]*$(ÒØ™£8“ƒĞıç1J$3bc9fa28-ce6f-4b41-8a0c-12724cbf0267
+škotlin:S101"QRename class "offroadvehicle" to match the regular expression ^[A-Z][a-zA-Z0-9]*$(ğ­Šúÿÿÿÿ8“ƒĞıç1J$9dd54543-946c-462c-bc3f-46102356acd4
+kotlin:S101$"TRename class "nomaldrivevehicle" to match the regular expression ^[A-Z][a-zA-Z0-9]*$(öçõùıÿÿÿÿ8“ƒĞıç1J$942cfc6c-9309-43d5-a0f5-c1b333a1bc17
+¤kotlin:S1186"ZAdd a nested comment explaining why this function is empty or complete the implementation.(õ†£‘ûÿÿÿÿ8”ƒĞıç1J$223cb387-241a-4f3a-9b0a-8d024b0065ee
+Œkotlin:S6517"BMake this interface functional or replace it with a function type.(ê¦ÆÅÿÿÿÿÿ8•ƒĞıç1J$83d84321-5102-459e-be56-06fa644c3d13
